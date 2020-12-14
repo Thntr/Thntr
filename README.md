@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 <!--
-**Thntr/Thntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Thntr/Thntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- :1234: :mage: :computer: I’m currently working on ... Automating Scraping With Scrapy framework!
-- :exploding_head: :collision: I’m currently learning ... Bug bounty & Ethical hacking! :shipit:
-- 👯 I’m looking to collaborate on ... With Anybody Who's Has an Innovating Heart!
-- 🤔 I’m looking for help with ... Trading & Finance! :money_with_wings: :chart_with_downwards_trend:
+- :1234: :mage: :computer: I’m currently working on ... Automating scraping!
+- :exploding_head: :collision: I’m currently learning ... Bug bounty & ethical hacking! :shipit:
+- 👯 I’m looking to collaborate on ... With anybody who's has an innovating heart!
+- 🤔 I’m looking for help with ... Whatever you can suggest, I'm thankfull by every feedback!
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
-
+-->
